@@ -1,42 +1,32 @@
 //declare a number with var
-var number = 20
+//var number = 20
 
-console.log(number)
+//console.log(number)
 
-let b = "Jatin"
-console.log(b)
+//let b = "Jatin"
+//console.log(b)
 
-const learningJavascript = true
+//const num = 101522
+//num = 101010
 
-console.log(learningJavascript)
+//console.log(num)
 
 
-//let c = 50
-//let char = "saloni"
-//let boolean = true
-//let object = {Name : "Jatin", age: 25}
-//let arr = [1,2,3,4,5]
+let c = 50
+let char = "saloni"
+let boolean = true
+let object = {Name : "Jatin", age: 25}
+let arr = [1,2,3,4,5]
 
-//console.log(typeof c);
-//console.log(typeof char);
-//console.log(typeof boolean);
-//console.log(typeof object);
-//console.log(typeof arr);
+c = 10
 
-let num = 20
-    let char = "This is Day 1"
-    let bool1 = true
-    let obj = {
-        name: 'Mayank Chandel',
-        number: 10
-    }
+console.log(c)
+console.log(typeof char);
+console.log(typeof boolean);
+console.log(typeof object);
+console.log(typeof arr);
 
-    let arr = [1, 2, 3, "Hyy", {
-        now: 'This is new'
-    }]
-
-    console.log(typeof num);
-    console.log(typeof char);
-    console.log(typeof bool1);
-    console.log(typeof obj);
-    console.log(typeof arr);
+const ConstNum = 30
+c = 20
+    console.log("The constant number is:-", ConstNum);
+    
